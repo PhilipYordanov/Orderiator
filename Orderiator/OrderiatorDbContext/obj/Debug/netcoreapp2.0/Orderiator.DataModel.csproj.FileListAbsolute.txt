@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Orderiator.DataModel.deps.json
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Orderiator.DataModel.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.AssemblyInfo.cs
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Orderiator.DataModel.runtimeconfig.json
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Orderiator.DataModel.runtimeconfig.dev.json
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Orderiator.DataModel.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Orderiator\Orderiator\OrderiatorDbContext\obj\Debug\netcoreapp2.0\Orderiator.DataModel.csproj.CopyComplete

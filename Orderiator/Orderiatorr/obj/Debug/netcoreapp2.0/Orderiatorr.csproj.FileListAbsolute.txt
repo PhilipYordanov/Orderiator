@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\bin\Debug\netcoreapp2.0\Orderiatorr.deps.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\bin\Debug\netcoreapp2.0\Orderiatorr.runtimeconfig.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\bin\Debug\netcoreapp2.0\Orderiatorr.runtimeconfig.dev.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\bin\Debug\netcoreapp2.0\Orderiatorr.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\bin\Debug\netcoreapp2.0\Orderiatorr.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.AssemblyInfo.cs
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiatorr\obj\Debug\netcoreapp2.0\Orderiatorr.csprojAssemblyReference.cache

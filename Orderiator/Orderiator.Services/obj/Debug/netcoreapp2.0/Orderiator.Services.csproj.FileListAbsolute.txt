@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\bin\Debug\netcoreapp2.0\Orderiator.Services.deps.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\bin\Debug\netcoreapp2.0\Orderiator.Services.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\bin\Debug\netcoreapp2.0\Orderiator.Services.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\bin\Debug\netcoreapp2.0\Orderiator.DataModel.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\bin\Debug\netcoreapp2.0\Orderiator.DataModel.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Services\obj\Debug\netcoreapp2.0\Orderiator.Services.csproj.CopyComplete

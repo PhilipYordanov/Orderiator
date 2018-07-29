@@ -1,0 +1,33 @@
+﻿@model CustomerDTO
+@{
+    ViewData["Title"] = @Model.ContactName;
+}
+
+<div class="container" style="margin-top:50px">
+    <div class="row">
+        <div class="col-md-2 lead">Contact Name:</div>
+        <div class="col-md-10 text-left lead">@Model.ContactName</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 lead">Address:</div>
+        <div class="col-md-10 text-left lead">@Model.Country/@Model.City - @Model.Address</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 lead">Contacts:</div>
+        <div class="col-md-10 text-left lead">Fax: @Model.Fax; Phone: @Model.Phone; Postal Code: @Model.PostalCode</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2 lead">Contry:</div>
+        <div class="col-md-10 text-left lead">Position: @Model.ContactTitle</div>
+    </div>
+</div>
+<hr />
+@foreach (var order in Model.Orders)
+{
+    <div class="jumbotron col-md-3" style="margin:5px; max-height:375px; max-width:175px;">
+        <div class="lead">Order Date: @order.OrderDate.Value.Year/@order.OrderDate.Value.Month/@order.OrderDate.Value.Day</div>
+        <p>Total Amount: @(order.OrderDetails.Quantity * order.OrderDetails.UnitPrice)</p>
+    </div>
+}
+<a class="btn btn-link" asp-action="About" asp-route-customerId="@Model.CustomerId">Order Details</a>
+

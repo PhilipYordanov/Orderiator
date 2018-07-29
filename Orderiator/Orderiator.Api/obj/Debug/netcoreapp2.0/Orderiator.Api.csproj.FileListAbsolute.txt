@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Api.deps.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Api.runtimeconfig.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Api.runtimeconfig.dev.json
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Api.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Api.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.AssemblyInfo.cs
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Services.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.Services.pdb
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\obj\Debug\netcoreapp2.0\Orderiator.Api.csproj.CopyComplete
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.DataModel.dll
+C:\Users\User\Desktop\Orderiator\Orderiator\Orderiator.Api\bin\Debug\netcoreapp2.0\Orderiator.DataModel.pdb
